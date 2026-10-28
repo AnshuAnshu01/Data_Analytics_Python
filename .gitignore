@@ -1,0 +1,13 @@
+# Large datasets (>100MB exceeds GitHub limit)
+IPL/IPL.csv
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache & checkpoints
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
